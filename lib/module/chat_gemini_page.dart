@@ -23,7 +23,7 @@ class ChatGeminiPage extends StatelessWidget {
               padding: EdgeInsets.all(5),
               child: CircleAvatar(
                 backgroundImage: AssetImage(
-                  "assets/pp.jpg",
+                  "assets/icony.jpg",
                 ),
                 radius: 20,
               ),
